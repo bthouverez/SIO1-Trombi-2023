@@ -1,6 +1,18 @@
+
 #DEGLOS_BIZOUARN {
     background-color: rgb(163, 64, 15);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border-radius: 10;
+}
 
+#KORKMAZ{
+    background-color: darkblue;
+    border-color: gold;
+}
+
+#BONETTI{
+    background-color: aqua;
+    color: black;
+    border-radius: 5px;
+    border-color: darkcyan;
 }
